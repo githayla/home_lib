@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Results for "{{ author }}"</h1>
+    {% if books %}
+        <ul>
+            {% for book in books %}
+                <li>{{ book.title }} by {{ book.author }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No books found by {{ author }}</p>
+    {% endif %}
+    <a href="{{ url_for('search_books') }}">Back to Search</a>
+    <a href="{{ url_for('home') }}">Back to Home</a>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+    <title>Home Lib</title>
+</head>
+<body>
+    <h1>Home Lib</h1>
+     <a href="{{ url_for('add_book') }}">Add a new book</a>
+    <h2>Books:</h2>
+    <ul>
+        {% for book in books %}
+            <li>{{ book.title }} by {{ book.author }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

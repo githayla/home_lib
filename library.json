@@ -1,0 +1,65 @@
+[
+       {
+              "title": "Raz\u00e3o e sentimento",
+              "author": "Jane Austen",
+              "publication_year": 1811,
+              "genre": "Romance",
+              "language": "Portugu\u00eas",
+              "status": "Unread",
+              "serie": "No"
+       },
+       {
+              "title": "Violeta",
+              "author": "Isabel Allende",
+              "publication_year": 2022,
+              "genre": "Historical Fiction",
+              "language": "Portugu\u00eas",
+              "status": "Read",
+              "serie": "No"
+       },
+       {
+              "title": "Orgulho e preconceito",
+              "author": "Jane Austen",
+              "publication_year": 1813,
+              "genre": "Romance",
+              "language": "Portugu\u00eas",
+              "status": "Read",
+              "serie": "No"
+       },
+       {
+              "title": "Anna Kari\u00eanina",
+              "author": "Leo Tolstoi",
+              "publication_year": 1873,
+              "genre": "Fiction",
+              "language": "Portugu\u00eas",
+              "status": "Unread",
+              "serie": "No"
+       },
+       {
+              "title": "Raz\u00e3o e sentimento",
+              "author": "Jane Austen",
+              "publication_year": 1811,
+              "genre": "Romance",
+              "language": "Portugu\u00eas",
+              "status": "Unread",
+              "serie": "No"
+       },
+       {
+              "title": "Funny Story",
+              "author": "Emily Henry",
+              "publication_year": "2024",
+              "genre": "Romance",
+              "language": "English",
+              "status": "Read",
+              "serie": "No"
+       },
+       {
+              "title": "The will of the many",
+              "author": "James Islington",
+              "publication_year": "2023",
+              "genre": "Fantasy",
+              "language": "English",
+              "status": "Unread",
+              "serie": "Yes"
+       }
+]

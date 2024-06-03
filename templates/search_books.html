@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+    <title>Search Books</title>
+</head>
+<body>
+    <h1>Search Books by Author</h1>
+    <form method="post">
+        <label for="author">Author:</label>
+        <input type="text" id="author" name="author"><br>
+        <input type="submit" value="Search">
+    </form>
+    <a href="{{ url_for('home') }}">Back to Home</a>
+</body>
+</html>
