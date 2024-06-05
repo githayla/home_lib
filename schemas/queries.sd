@@ -1,0 +1,52 @@
+schema queries {
+
+    document queries {
+    
+        field title type string {
+        	indexing: summary | index
+        	index: enable-bm25
+        }
+        
+        field author type string {
+        	indexing: summary | index
+        	index: enable-bm25
+        }
+        
+        field publication_year type int {
+        	indexing: summary | attribute
+        }
+        
+        field genre type string {
+        	indexing: summary | index
+        	index: enable-bm25
+        }
+        
+        field language type string {
+        	indexing: summary | index
+        	index: enable-bm25
+        }
+        
+        field status type string {
+        	indexing: summary | index
+        	index: enable-bm25
+        }
+        
+        field serie type string {
+        	indexing: summary | index
+        	index: enable-bm25
+        }
+        
+        
+        fieldset default {
+        	fields: title, author, publication_year, genre, language, status, serie
+        }
+        
+        rank-profile random inherits default {
+        	first-phase {
+        		expression: bm25(title) + bm25(author)
+        	}
+        }
+        
+    }
+
+}
