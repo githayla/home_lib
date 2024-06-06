@@ -61,7 +61,7 @@
               "language": "English",
               "status": "Unread",
               "serie": "Yes"
-       }
+       },
        {
               "title": "A fate inked in blood",
               "author": "Danielle L Jensen",
@@ -70,8 +70,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "Yes"
-          },
-          {
+        },
+        {
               "title": "Faebound",
               "author": "Saara El-Arifi",
               "publication_year": 2024,
@@ -79,8 +79,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "Yes"
-          },
-          {
+        },
+        {
               "title": "Tress of the emerald sea",
               "author": "Brandon Sanderson",
               "publication_year": 2023,
@@ -88,8 +88,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "No"
-          },
-          {
+        },
+        {
               "title": "Steelheart",
               "author": "Brandon Sanderson",
               "publication_year": 2013,
@@ -97,8 +97,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "Yes"
-          },
-          {
+        },
+        {
               "title": "Daughter of smoke and bone",
               "author": "Laini Taylor",
               "publication_year": 2011,
@@ -106,8 +106,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "Yes"
-          },
-          {
+        },
+        {
               "title": "One dark window",
               "author": "Rachel Gillig",
               "publication_year": 2022,
@@ -115,8 +115,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "Yes"
-          },
-          {
+        },
+        {
               "title": "Weyward",
               "author": "Emilia Hart",
               "publication_year": 2023,
@@ -124,8 +124,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "No"
-          },
-          {
+        },
+        {
               "title": "The invocations",
               "author": "Krystal Sutherland",
               "publication_year": 2023,
@@ -133,8 +133,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "No"
-          },
-          {
+        },
+        {
               "title": "Billy Summers",
               "author": "Stephen King",
               "publication_year": 2021,
@@ -142,8 +142,8 @@
               "language": "Português",
               "status": "Unread",
               "serie": "No"
-          },
-          {
+        },
+        {
               "title": "A última festa",
               "author": "Lucy Foley",
               "publication_year": 2020,
@@ -151,8 +151,8 @@
               "language": "Português",
               "status": "Unread",
               "serie": "No"
-          },
-          {
+        },
+        {
               "title": "The maid",
               "author": "Nita Prose",
               "publication_year": 2022,
@@ -160,8 +160,8 @@
               "language": "English",
               "status": "Unread",
               "serie": "No"
-          },
-          {
+        },
+        {
               "title": "A vida invisível de Addie Larue",
               "author": "V.E. Schwab",
               "publication_year": 2020,
@@ -169,5 +169,5 @@
               "language": "Português",
               "status": "Unread",
               "serie": "No"
-          }
+        }
 ]
