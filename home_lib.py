@@ -12,6 +12,7 @@ class Book:
         self.serie = serie
     
     #The following function converts a 'book' object into a dic (JSON compatible format) -> necessary to save the data of the book to a json file
+    # data classes!
     def to_dict(self):
         return {
             'title': self.title,

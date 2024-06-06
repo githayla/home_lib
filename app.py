@@ -1,6 +1,13 @@
 from flask import Flask, request, render_template, redirect, url_for
 from home_lib import Library, Book
 
+# Tarefas: 
+# 1 - Instalar o Postman
+# 2 - Mudar o armazenamento de arquivo json para sqlite
+# 3 - Estudar conceito de CRUD: https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+# 4 - Implementar na API o CRUD
+# 5 - Implementar todos os testes (100% coverage)
+
 app = Flask(__name__)
 library = Library()
 
