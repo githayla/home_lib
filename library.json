@@ -6,7 +6,7 @@
               "genre": "Romance",
               "language": "Portugu\u00eas",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
        },
        {
               "title": "Violeta",
@@ -15,7 +15,7 @@
               "genre": "Historical Fiction",
               "language": "Portugu\u00eas",
               "status": "Read",
-              "serie": "No"
+              "serie": 0
        },
        {
               "title": "Orgulho e preconceito",
@@ -24,7 +24,7 @@
               "genre": "Romance",
               "language": "Portugu\u00eas",
               "status": "Read",
-              "serie": "No"
+              "serie": 0
        },
        {
               "title": "Anna Kari\u00eanina",
@@ -33,7 +33,7 @@
               "genre": "Fiction",
               "language": "Portugu\u00eas",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
        },
        {
               "title": "Raz\u00e3o e sentimento",
@@ -42,7 +42,7 @@
               "genre": "Romance",
               "language": "Portugu\u00eas",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
        },
        {
               "title": "Funny Story",
@@ -51,7 +51,7 @@
               "genre": "Romance",
               "language": "English",
               "status": "Read",
-              "serie": "No"
+              "serie": 0
        },
        {
               "title": "The will of the many",
@@ -60,7 +60,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "Yes"
+              "serie": 1
        },
        {
               "title": "A fate inked in blood",
@@ -69,7 +69,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "Yes"
+              "serie": 1
         },
         {
               "title": "Faebound",
@@ -78,7 +78,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "Yes"
+              "serie": 1
         },
         {
               "title": "Tress of the emerald sea",
@@ -87,7 +87,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         },
         {
               "title": "Steelheart",
@@ -96,7 +96,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "Yes"
+              "serie": 1
         },
         {
               "title": "Daughter of smoke and bone",
@@ -105,7 +105,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "Yes"
+              "serie": 1
         },
         {
               "title": "One dark window",
@@ -114,7 +114,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "Yes"
+              "serie": 1
         },
         {
               "title": "Weyward",
@@ -123,7 +123,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         },
         {
               "title": "The invocations",
@@ -132,7 +132,7 @@
               "genre": "Fantasy",
               "language": "English",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         },
         {
               "title": "Billy Summers",
@@ -141,7 +141,7 @@
               "genre": "Crime",
               "language": "Português",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         },
         {
               "title": "A última festa",
@@ -150,7 +150,7 @@
               "genre": "Thriller",
               "language": "Português",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         },
         {
               "title": "The maid",
@@ -159,7 +159,7 @@
               "genre": "Thriller",
               "language": "English",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         },
         {
               "title": "A vida invisível de Addie Larue",
@@ -168,6 +168,6 @@
               "genre": "Fantasy",
               "language": "Português",
               "status": "Unread",
-              "serie": "No"
+              "serie": 0
         }
 ]

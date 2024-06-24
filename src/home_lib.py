@@ -1,8 +1,9 @@
 import json
 import os
 
+# Transformar numa dataclass
 class Book:
-    def __init__(self, title, author, publication_year, genre, language, status, serie):
+    def __init__(self, title: str, author: str, publication_year: int, genre: str, language: str, status: str, serie: int):
         self.title = title
         self.author = author
         self.publication_year = publication_year
@@ -24,6 +25,7 @@ class Book:
             'serie': self.serie
         }
 
+#
 class Library:
     def __init__(self, filepath='library.json'):
         self.filepath = filepath
@@ -52,11 +54,4 @@ class Library:
             self.save_books()
 
     def get_books(self):
-        return self.books 
-    
-    def search_by_author(self, author):
-        found_books = []
-        for book in self.books:
-            if book.author.lower() == author.lower():
-                found_books.append(book)
-        return found_books    
+        return self.books
